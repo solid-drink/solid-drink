@@ -1,6 +1,8 @@
 
 ![Github Banner copy](https://github.com/solid-drink/solid-drink/assets/168260988/30b47805-7a38-486b-afa3-0440e30927ae)
 
+<br clear="both">
+
 <h1 align="left">Hello!👋</h1>
 
 ###
@@ -12,6 +14,8 @@
 <p align="left">A Student from ICB Cinta Teknika Vocational School, I'm interested in the front-end but I also study the back-end.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">⚒ Language and Tools</h2>
 
@@ -39,9 +43,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">Contact Me 🤙</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
