@@ -76,6 +76,8 @@
   
 <img height="200" width="100%" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif"  />
 
+https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif
+
 </div>
 
 ###
