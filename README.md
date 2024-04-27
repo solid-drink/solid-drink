@@ -69,12 +69,10 @@
 
 ###
 
-<img src"https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" wi>
-
-
 <div align="center">
   
-<img height="100%" width="400px" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif"  />
+<img align="left" height="100%" width="400px" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif"  />
+<img align="right" height="100%" width="400px" src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" />
 
 </div>
 
