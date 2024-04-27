@@ -43,10 +43,6 @@
 
 ###
 
-  <img align="right" height="200" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif"  />
-
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://twitter.com/solid_drink" target="_blank">
@@ -61,6 +57,12 @@
   <a href="https://stackoverflow.com/users/22246348/alan-captainimal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif"  />
 </div>
 
 ###
