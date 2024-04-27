@@ -69,8 +69,11 @@
 
 ###
 
+<img src"https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" wi>
+
+
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif"  />
+<img height="200" width="100%" src="https://i.pinimg.com/originals/b2/c0/52/b2c0529772ff6f5f713da4799c2bf330.gif"  />
 </div>
 
 ###
