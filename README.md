@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/solid-drink/solid-drink/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/{solid_drink}/{solid_drink}/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
