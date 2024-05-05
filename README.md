@@ -39,12 +39,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/{solid_drink}/{solid_drink}/output/github-contribution-grid-snake-dark.svg)
-
-###
-
-<br clear="both">
-
 <h2 align="center">Contact Me 🤙</h2>
 
 ###
