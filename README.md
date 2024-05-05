@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">A Student from ICB Cinta Teknika Vocational School, I'm interested in the front-end but I also study the back-end. And I want to be a full-stack developer if it's appropriate</p>
+<p align="left">A Student from ICB Cinta Teknika Vocational School, I'm interested in the front-end but I also study the back-end 👩‍💻. And I want to be a full-stack developer if it's appropriate.</p>
 
 ###
 
