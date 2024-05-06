@@ -1,6 +1,6 @@
-
+<span class="rounded">
 ![Github Banner copy](https://github.com/solid-drink/solid-drink/assets/168260988/30b47805-7a38-486b-afa3-0440e30927ae)
-
+</span>
 <br clear="both">
 
 <h1 align="left">Hello!👋</h1>
