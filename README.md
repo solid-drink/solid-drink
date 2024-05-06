@@ -1,4 +1,4 @@
-![Github Banner copy](https://github.com/solid-drink/solid-drink/assets/168260988/28d5ce75-5068-4ed1-9da6-422dd9e095fb)![Github Banner copy](https://github.com/solid-drink/solid-drink/assets/168260988/eb6b9c7e-c22f-493a-a5a6-fc085bfe4540)
+![Github Banner copy](https://github.com/solid-drink/solid-drink/assets/168260988/28d5ce75-5068-4ed1-9da6-422dd9e095fb)
 
 ###
 
