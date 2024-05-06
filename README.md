@@ -1,4 +1,4 @@
-<span class="rounded" style="border-radius: 10px; overflow: hidden;">
+<span class="rounded" style="border-radius: 100px; overflow: hidden;">
   <img src="https://github.com/solid-drink/solid-drink/assets/168260988/30b47805-7a38-486b-afa3-0440e30927ae" alt="Github Banner copy">
 </span>
 
